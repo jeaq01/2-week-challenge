@@ -32,6 +32,8 @@ li {
 p {
     font-size: 25px;
     color: white;
+    display: block;
+    margin-block-start: 20px;
 }
 
 .content{
@@ -45,6 +47,13 @@ p {
 
 }
 
+h3 {
+    color: white;
+    margin-top: 20px;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 .float-left {
 margin-right: 25px; 
 display: inline-block;
@@ -54,6 +63,4 @@ footer{
 font-size: 30px;
 color: white;
 }
-
-
 
